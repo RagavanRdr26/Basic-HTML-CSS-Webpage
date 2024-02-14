@@ -1,0 +1,158 @@
+@media screen and (max-width:1270px){
+    .container{
+        width: 1000px;
+        margin: 0 auto;
+    }
+    .bottom{
+        display: block;
+    }
+    .box1{
+        width: 100%;
+    height: 25.7rem;
+    }
+    .box2{
+        margin-top: 120px;
+        width: 100%;
+    height: 25.7rem;
+    }
+}
+@media screen and (max-width:1010px){
+    .container{
+        width: 800px;
+        margin: 0 auto;
+    }
+    .box1{
+        width: 100%;
+    height: 25.7rem;
+    }
+    .box2{
+        width: 100%;
+    height: 25.7rem;
+    }
+}
+@media screen and (max-width:810px){
+    .container{
+        width: 600px;
+        margin: 0 auto;
+    }
+    .box1{
+        width: 100%;
+    height: 32rem;
+    }
+    .box2{
+        width: 100%;
+    height: 25.7rem;
+    }
+}
+@media screen and (max-width:610px){
+    header img{
+        margin-left: 10px;
+        margin-top: 30px;
+    }
+    .container{
+        width: 450px;
+        margin: 0 auto;
+    }
+    .top, .top1{
+        width: 100%;
+    }
+    .box1{
+        width: 100%;
+    height: 35rem;
+    }
+    .box2{
+        width: 100%;
+    height: 25.7rem;
+    }
+}
+@media screen and (max-width:460px){
+    .container{
+        width: 400px;
+    }
+    .box1{
+    height: 35rem;
+    }
+    .box2{
+    height: 25.7rem;
+    }
+}
+@media screen and (max-width:420px){
+    .container{
+        width: 350px;
+    }
+    .box1{
+    height: 40rem;
+    }
+    .box2{
+    height: 25.7rem;
+    }
+}
+@media screen and (max-width:370px){
+
+    .container{
+        width: 310px;
+    }
+    .box1{
+    height: 44rem;
+    }
+    .box2{
+    height: 25.7rem;
+    }
+    .announcements1, .announcements2{
+        margin-left: 10px;
+        margin-right: 10px;
+        gap: 10px;
+
+    }
+    .announcements{
+        margin-left: 30px;
+    }
+}
+@media screen and (max-width:340px){
+    .container{
+        width: 290px;
+    }
+    .box1{
+    height: 44rem;
+    }
+    .box2{
+    height: 25.7rem;
+    }
+    .announcements1, .announcements2{
+        margin-left: 10px;
+        margin-right: 10px;
+        gap: 10px;
+
+    }
+    .announcements{
+        margin-left: 30px;
+    }
+}
+@media screen and (max-width:300px){
+    .container{
+        width: 260px;
+    }
+    .box1{
+    height: 48rem;
+    }
+    .box2{
+    height: 30rem;
+    }
+    .announcements{
+        font-size: 20px;
+    }
+    li{
+        margin-right: 20px;
+    }
+}
+@media screen and (max-width:280px){
+    .container{
+        width: 240px;
+    }
+    .box1{
+    height: 53rem;
+    }
+    .box2{
+    height: 30rem;
+    }
+}
